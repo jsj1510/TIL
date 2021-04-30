@@ -6,5 +6,5 @@
 
 🏃‍♂️ React
 
-🏃‍♂️ React-Native
+🏃‍♂️ React-Native  
 사진첩 접근
