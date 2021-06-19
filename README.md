@@ -16,6 +16,6 @@ getItemAsync 에서JSON.stringify가 되어 있을시 받을때 json.parse로 �
   
 useContext  
 
-set REACT_NATIVE_PACKAGER_HOSTNAM="ip"
+set REACT_NATIVE_PACKAGER_HOSTNAME=ip
 
 
